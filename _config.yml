@@ -1,0 +1,23 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Webb Lab(b)
+tagline:          'CSU'
+description:      'Modeling ecology and evolution'
+url:
+baseurl:          /
+
+author:
+  name:           'Clint Leach'
+  url:            clint-leach.github.io
+
+paginate:         5
+
+
+github:
+  repo:           https://github.com/webblabb/webblabb.github.io
+
+collections:
+- people
+- publications
