@@ -1,10 +1,10 @@
-# Webb lab
+# Gordon lab
 
-This is the repository for the website of the Webb lab at Colorado State University.  This document provides a general introduction to the site and its organization.
+This is the repository for the website of the Gordon lab at the Joint Genome Institute.  This document provides a general introduction to the site and its organization.
 
 ## People
 
-All lab members, past and present, have a file in the `_people` directory named `<firstinitial><lastname>.md`.  These files have the following front matter fields:
+A work in progress to document lab members, past and present, have a file in the `_people` directory named `<firstinitial><lastname>.md`.  These files have the following front matter fields:
 
 
 ```
