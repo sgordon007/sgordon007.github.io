@@ -10,7 +10,7 @@ baseurl:          /
 
 author:
   name:           'Sean Gordon'
-  url:            /
+  url:            ../
 
 paginate:         5
 
