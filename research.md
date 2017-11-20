@@ -33,6 +33,8 @@ undertook the ambitious goal to determine just how large a eukaryotic pan-genome
 We de novo assembled and annotated complete genomes for 54 genetically and geographically diverse inbred lines of the model grass Brachypodium distachyon.
 This work yielded a pan-genome containing nearly twice the number of genes found in any individual genome (Gordon et al., 2017, Nature Communications, in press). Interestingly, of genes that were differentially present among the species-wide pan-genome, many were present in all sampled individuals of certain sub-populations and may be important for adaption to local geographic conditions as well as contributing to the population structure itself.
 
+Currently we are developing PanHipMer to support pan-genomics analyses involving thousands of genomes. To achieve this, we are incorporating annotation and comparative genomics in the assembly process. 
+
 ### Recent Publications
 {% for pub in site.publications reversed %}
 {% if pub.project == "livestock" %}

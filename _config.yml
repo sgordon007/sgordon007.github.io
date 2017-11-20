@@ -2,21 +2,21 @@
 permalink:        pretty
 
 # Setup
-title:            Webb Lab(b)
-tagline:          'CSU'
-description:      'Modeling ecology and evolution'
+title:            Gordon lab
+tagline:          'JGI'
+description:      'Computational Genomics'
 url:
 baseurl:          /
 
 author:
-  name:           'Clint Leach'
-  url:            clint-leach.github.io
+  name:           'Sean Gordon'
+  url:            sgordon007.github.io
 
 paginate:         5
 
 
 github:
-  repo:           https://github.com/webblabb/webblabb.github.io
+  repo:           https://github.com/sgordon007/sgordon007.github.io
 
 collections:
 - people
