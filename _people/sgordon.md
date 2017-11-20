@@ -4,4 +4,4 @@ category: pi
 website: https://www.linkedin.com/in/linkedinseangordon/
 ---
 
-U.S. Department of Agriculture
+Joint Genome Institute

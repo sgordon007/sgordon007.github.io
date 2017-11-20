@@ -1,6 +1,6 @@
 # Gordon lab
 
-This is the repository for the website of the Gordon lab at the Joint Genome Institute.  This document provides a general introduction to the site and its organization.
+This is the repository for the website of Sean Gordon at the Joint Genome Institute.  This document provides a general introduction to the site and its organization.
 
 ## People
 
