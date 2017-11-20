@@ -29,14 +29,14 @@
  
       {% comment %}
       {% for person in site.people %} 
-	{% if person.category == "pi" or person.category == "phd" or person.category == "staff" %}
+	{% if person.category == "pi" or person.category == "phd" or person.category == "postdoc" %}
 	  <a class="sidebar-nav-item" href="{{ person.website }}">{{ person.title }}</a>
 	{% endif %}
       {% endfor %}
       {% endcomment %}
 
     </nav>
-    <left> <img src="/assets/csuline.png", width = 300px> </left>
+    <center> <img src="/assets/csuline.png", width = 300px> </center>
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
