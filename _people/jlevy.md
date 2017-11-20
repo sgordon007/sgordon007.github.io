@@ -1,7 +1,7 @@
 ---
 title: Joshua Levy
-category: former-student
-website: https://www.linkedin.com/in/andrewkanarek
+category: staff
+website: 
 ---
 
-U.S. Environmental Protection Agency
+Joint Genome Institute
