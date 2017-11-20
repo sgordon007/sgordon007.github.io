@@ -5,8 +5,8 @@ permalink:        pretty
 title:            Gordon lab
 tagline:          'JGI'
 description:      'Computational Genomics'
-url:              sgordon007.github.io
-baseurl:          sgordon007.github.io
+url:
+baseurl:          /
 
 author:
   name:           'Sean Gordon'
