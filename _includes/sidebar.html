@@ -29,7 +29,7 @@
  
       {% comment %}
       {% for person in site.people %} 
-	{% if person.category == "pi" or person.category == "phd" or person.category == "postdoc" %}
+	{% if person.category == "pi" or person.category == "phd" or person.category == "staff" %}
 	  <a class="sidebar-nav-item" href="{{ person.website }}">{{ person.title }}</a>
 	{% endif %}
       {% endfor %}
