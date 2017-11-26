@@ -1,6 +1,6 @@
 The Gordon Lab focuses on a systems-level understanding of the genome.
 
-![lab photo](assets/LabPhoto2017.png)
+![lab photo](assets/LabPhoto2017.jpg)
 
 The interactions between molecular species of the genome are difficult to observe, yet they are the drivers of patterns within the genome.  
 
