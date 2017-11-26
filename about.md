@@ -13,4 +13,3 @@ Check out our research projects for more details, but examples of general questi
 Gordon Lab research is driven by biological questions but our approach is quantitative, including applied statistics, dynamical systems, simulations, and machine learning.
 Members of the Gordon Lab develop data-driven, quantitative approaches customized to a wide range of biological problems in natural and agricultural systems.
 
-![lab graph](assets/tobacco_allopolyploid.html)
