@@ -1,10 +1,10 @@
 ---
-title: Welcome!
+title: Learning algorithm in action: classifying subgenomes in tobacco allopolyploid
 layout: post
 ---
 
-Built using [jekyll](http://jekyllrb.com) and [hyde](http://hyde.getpoole.com/) and hosted on [Github pages](https://pages.github.com/).  The underlying source code is available from the github [repository](https://github.com/sgordon007/sgordon007.github.io).
+[Check out our subgenome classification algorithm in action](assets/tobacco_allopolyploid.html)
 
-[Check out our learning algorithm in action](assets/tobacco_allopolyploid.html)
-
-We are able to rapidly 
+We are able to rapidly classify segments of the tobacco genome that 
+are derived from the two respective progenitor species in this
+allopolyploid subgenome.
