@@ -32,6 +32,17 @@ Currently we are developing PanHipMer to support pan-genomics analyses involving
 {% endif %}
 {% endfor %}
 
+
+## Genetic basis for annual/perennial life history transitions over evolutionary time
+
+### Recent Publications
+{% for pub in site.publications reversed %}
+{% if pub.project == "perennial" %}
+  {{ pub.content }}
+{% endif %}
+{% endfor %}
+
+
 ## Brachypodium distachyon as a model for grass biology
 
 ### Recent Publications
@@ -42,3 +53,4 @@ Currently we are developing PanHipMer to support pan-genomics analyses involving
 {% endfor %}
 
 
+ 
