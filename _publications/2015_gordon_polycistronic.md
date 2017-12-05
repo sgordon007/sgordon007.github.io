@@ -1,6 +1,6 @@
 ---
 authors: Sean Gordon
-project: pangenomics
+project: fungi
 year: 2015
 link: 
 
