@@ -10,21 +10,11 @@ We recently made an enormous computational breakthrough that allows us to partit
 
 ### Recent Publications
 {% for pub in site.publications reversed %}
-{% if pub.project == "traits" %}
+{% if pub.project == "polyploid" %}
   {{ pub.content }}
 {% endif %}
 {% endfor %}
 
-## Comparative Genomics 
-
-In our disease research, we focus on the ecology and evolution of wildlife disease reservoirs with implications for human and domestic animal health.  Highly virulent diseases induce high mortality in their hosts and thus decimate host populations. How do such virulent diseases persist and spread despite wiping out the hosts they rely upon? Our work investigates how ecological and evolutionary mechanisms, particularly spatial and temporal host refuges and pathogen reservoirs, enhance persistence using plague, bat diseases, and avian influenza as example systems.
-
-### Recent Publications
-{% for pub in site.publications reversed %}
-{% if pub.project == "disease" %}
-  {{ pub.content }}
-{% endif %}
-{% endfor %}
 
 ## High throughput pan-genomics of eukaryotic species. 
 
@@ -37,16 +27,18 @@ Currently we are developing PanHipMer to support pan-genomics analyses involving
 
 ### Recent Publications
 {% for pub in site.publications reversed %}
-{% if pub.project == "livestock" %}
+{% if pub.project == "pangenomics" %}
   {{ pub.content }}
 {% endif %}
 {% endfor %}
 
-## Other
+## Brachypodium distachyon as a model for grass biology
 
 ### Recent Publications
 {% for pub in site.publications reversed %}
-{% if pub.project == "other" %}
+{% if pub.project == "distachyon" %}
   {{ pub.content }}
 {% endif %}
 {% endfor %}
+
+
