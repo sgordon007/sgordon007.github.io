@@ -33,7 +33,11 @@ Currently we are developing PanHipMer to support pan-genomics analyses involving
 {% endfor %}
 
 
-## Genetic basis for annual/perennial life history transitions over evolutionary time
+## Comparative genomics approach to study the genetic basis for annual/perennial life history transitions over evolutionary time
+
+Annual versus perennial growth of plants is a complex trait that has presumably co-evolved with other functional characteristics of an organism in response to a particular environment. The genetic determinants of annual versus perennial life history strategy are largely unknown. 
+
+My work developing resources for Brachypodium sylvaticum led to an approved FY2017 JGI CSP grant to sequence many additional annual and perennial species within the genus. The strategy is to use the fact that annual/perennial transitions have occurred at multiple nodes in the tree of this genus and identify candidate genetic correlates common to those events but not found at other speciation events. I plan to continue to collaborate on this project and may pursue other funding.
 
 ### Recent Publications
 {% for pub in site.publications reversed %}
