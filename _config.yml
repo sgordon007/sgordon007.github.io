@@ -6,7 +6,7 @@ title:            Sean Gordon
 tagline:          'JGI'
 description:      'Computational Genomics'
 url:              ../
-baseurl:          sgordon007.github.io
+baseurl:          /
 
 author:
   name:           'Sean Gordon'
