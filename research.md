@@ -57,4 +57,13 @@ My work developing resources for Brachypodium sylvaticum led to an approved FY20
 {% endfor %}
 
 
+## Comparative genomics of fungi
+
+### Recent Publications
+{% for pub in site.publications reversed %}
+{% if pub.project == "fungi" %}
+  {{ pub.content }}
+{% endif %}
+{% endfor %}
+
  
