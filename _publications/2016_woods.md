@@ -1,7 +1,7 @@
 ---
 authors: Sean Gordon
 project: pangenomics
-year: 2017
+year: 2016
 link: 
 
 ---
